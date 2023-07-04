@@ -20,7 +20,9 @@ __VISA__: [Does your company sponsor visas?]
 __DESCRIPTION__: [What does your company do, and what are you using Rust for? How much experience are you seeking and what seniority levels are you hiring for? The more details the better.]
 
 __ESTIMATED COMPENSATION__: [Be courteous to your potential future colleagues by attempting to provide at least a rough expectation of wages/salary.
+
 If you are listing several positions in the "Description" field above, then feel free to include this information inline above, and put "See above" in this field.
+
 If compensation is negotiable, please attempt to provide at least a base estimate from which to begin negotiations. If compensation is highly variable, then feel free to provide a range.
 
 If compensation is expected to be offset by other benefits, then please include that information here as well. If you don't have firm numbers but do have relative expectations of candidate expertise (e.g. entry-level, senior), then you may include that here.
