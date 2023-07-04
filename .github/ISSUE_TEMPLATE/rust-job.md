@@ -29,10 +29,17 @@ If compensation is negotiable, please attempt to provide at least a base estimat
 
 If you expect compensation to be offset by other benefits, then include that information as well. If you do not have firm numbers, but do have relative expectations of candidate expertise (e.g. entry-level, senior), then you may include that. If you truly have no information, then put "Uncertain" here.
 
-Note that some jurisdictions (e.g. United States' jurisdictions of California, Colorado, and New York City) require salary ranges on job postings. If your organization is in one of these locations or you plan to hire employees who reside in any of these locations, you are likely subject to these laws. Other jurisdictions may require salary information to be available upon request or that you provide it after the first interview. To avoid issues, we recommend all postings to provide salary information.
+Note that some jurisdictions (e.g. United States' jurisdictions of California,[^1][^2] Colorado,[^3][^4] and New York City[^5][^6]) require salary ranges on job postings. If your organization is in one of these locations or you plan to hire employees who reside in any of these locations, you are likely subject to these laws. Other jurisdictions may require salary information to be available upon request or that you provide it after the first interview. To avoid issues, we recommend all postings to provide salary information.
 
 You must state in your posting if you are planning to compensate employees partially or fully in something other than fiat currency (e.g. cryptocurrency, stock options, equity, etc).
 
 Do not put just "Uncertain" in this case as the default assumption is that the compensation will be 100% fiat.
 
 [rustgig](https://github.com/rustgig) team will remove postings that fail to comply with this addendum. Thank you.]
+
+[^1]: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB1162
+[^2]: https://www.cnbc.com/2022/09/28/california-pay-transparency-law-to-require-salary-ranges-on-job-postings.html
+[^3]: https://leg.colorado.gov/sites/default/files/2019a_085_signed.pdf
+[^4]: https://www.shrm.org/resourcesandtools/legal-and-compliance/state-and-local-updates/pages/some-employers-are-excluding-colorado-applicants-for-remote-work.aspx
+[^5]: https://www.nyc.gov/assets/cchr/downloads/pdf/amendments/Local-Law-59.pdf
+[^6]: https://news.bloomberglaw.com/daily-labor-report/pay-transparency-in-new-york-city-new-job-posting-law-explained
