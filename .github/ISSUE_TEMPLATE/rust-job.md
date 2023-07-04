@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-COMPANY: [Company name; optionally link to your company's website or careers page.]
+__COMPANY__: [Company name; optionally link to your company's website or careers page.]
 
-TYPE: [Full time, part time, internship, contract, etc.]
+__TYPE__: [Full time, part time, internship, contract, etc.]
 
-LOCATION: [Where are your office or offices located? If your workplace language isn't English-speaking, please specify it.]
+__LOCATION__: [Where are your office or offices located? If your workplace language isn't English-speaking, please specify it.]
 
-REMOTE: [Do you offer the option of working remotely? Please state clearly if remote work is restricted to certain regions or time zones, or if availability within a certain time of day is expected or required.]
+__REMOTE__: [Do you offer the option of working remotely? Please state clearly if remote work is restricted to certain regions or time zones, or if availability within a certain time of day is expected or required.]
 
 VISA: [Does your company sponsor visas?]
 
 DESCRIPTION: [What does your company do, and what are you using Rust for? How much experience are you seeking and what seniority levels are you hiring for? The more details the better.]
 
-ESTIMATED COMPENSATION: [Be courteous to your potential future colleagues by attempting to provide at least a rough expectation of wages/salary.
+__ESTIMATED COMPENSATION__: [Be courteous to your potential future colleagues by attempting to provide at least a rough expectation of wages/salary.
 If you are listing several positions in the "Description" field above, then feel free to include this information inline above, and put "See above" in this field.
 If compensation is negotiable, please attempt to provide at least a base estimate from which to begin negotiations. If compensation is highly variable, then feel free to provide a range.
 If compensation is expected to be offset by other benefits, then please include that information here as well. If you don't have firm numbers but do have relative expectations of candidate expertise (e.g. entry-level, senior), then you may include that here.
