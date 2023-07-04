@@ -23,6 +23,8 @@ __ESTIMATED COMPENSATION__: *[Provide at least a rough expectation of wages/sala
 
 __APPLICATION__: *[Ideally include e-mail address contact for the candidate to apply for the job, but you may also add other application mediums such as forms.]*
 
+---
+
 If you are listing multiple positions in the "Description" field above, then feel free to include this information inline above, and put "See above" in this field.
 
 If compensation is negotiable, please attempt to provide at least a base estimate from which to begin negotiations. If compensation is highly variable, then feel free to provide a range.
@@ -35,4 +37,4 @@ You must state in your posting if you are planning to compensate employees parti
 
 Do not put just "Uncertain" in this case as the default assumption is that the compensation will be 100% fiat.
 
-[rustgig](https://github.com/rustgig) team will remove postings that fail to comply with this addendum. Thank you.]
+[rustgig](https://github.com/rustgig) team will remove postings that fail to comply with this addendum. Thank you.
