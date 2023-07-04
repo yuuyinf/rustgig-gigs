@@ -21,6 +21,8 @@ __DESCRIPTION__: [What does your organization do, and what are you using Rust fo
 
 __ESTIMATED COMPENSATION__: [Provide at least a rough expectation of wages/salary, as a courteous behavior to your potential future colleagues.]
 
+__APPLICATION__: [Ideally include e-mail address contact for the candidate to apply for the job, but you may also add other application mediums such as forms.]
+
 If you are listing multiple positions in the "Description" field above, then feel free to include this information inline above, and put "See above" in this field.
 
 If compensation is negotiable, please attempt to provide at least a base estimate from which to begin negotiations. If compensation is highly variable, then feel free to provide a range.
