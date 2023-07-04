@@ -7,21 +7,21 @@ assignees: ''
 
 ---
 
-__ORGANIZATION/COMPANY__: [Organization (e.g. company) name; optionally link to your organization's website or careers page.]
+__ORGANIZATION/COMPANY__: *[Organization (e.g. company) name; optionally link to your organization's website or careers page.]*
 
-__TYPE__: [Full time, part time, internship, contract, etc.]
+__TYPE__: *[Full time, part time, internship, contract, etc.]*
 
-__LOCATION__: [Where are your office or offices located? If your workplace language is not English-speaking, please specify it.]
+__LOCATION__: *[Where are your office or offices located? If your workplace language is not English-speaking, please specify it.]*
 
-__REMOTE__: [Do you offer the option of working remotely? Please state if you restrict remote work to certain regions or time zones, or if you expect or require availability within a certain time of day.]
+__REMOTE__: *[Do you offer the option of working remotely? Please state if you restrict remote work to certain regions or time zones, or if you expect or require availability within a certain time of day.]*
 
-__VISA__: [Does your organization sponsor visas?]
+__VISA__: *[Does your organization sponsor visas?]*
 
-__DESCRIPTION__: [What does your organization do, and what are you using Rust for? How much experience are you seeking and what seniority levels are you hiring for? The more relevant details for the job, the better.]
+__DESCRIPTION__: *[What does your organization do, and what are you using Rust for? How much experience are you seeking and what seniority levels are you hiring for? The more relevant details for the job, the better.]*
 
-__ESTIMATED COMPENSATION__: [Provide at least a rough expectation of wages/salary, as a courteous behavior to your potential future colleagues.]
+__ESTIMATED COMPENSATION__: *[Provide at least a rough expectation of wages/salary, as a courteous behavior to your potential future colleagues.]*
 
-__APPLICATION__: [Ideally include e-mail address contact for the candidate to apply for the job, but you may also add other application mediums such as forms.]
+__APPLICATION__: *[Ideally include e-mail address contact for the candidate to apply for the job, but you may also add other application mediums such as forms.]*
 
 If you are listing multiple positions in the "Description" field above, then feel free to include this information inline above, and put "See above" in this field.
 
